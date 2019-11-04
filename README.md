@@ -1,5 +1,5 @@
 # FDV-Tilemaps
 
-![](HexTiles.gif)
-![](IsometricTiles.gif)
-![](NormalTiles.gif)
+![](NormalTiles.png)
+![](IsometricTiles.png)
+![](HexTiles.png)
